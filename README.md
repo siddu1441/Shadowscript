@@ -2,11 +2,11 @@
  A small Programming language that functions basic commands and expressions
  This is based on compiler principles and concepts contains lexical analysis , Parasing , tokens and Interpretation.
 
-To run this code you need to have python language in your system.
+To run this code you need to have python installed in your system.
 
 STEPS : 
 1. Start by executing shell.py file
-2. In The input field you can execute single line commands
+2. In the input field you can execute single line commands
 3. The output is shown immediatlely
 
 Commands : 
